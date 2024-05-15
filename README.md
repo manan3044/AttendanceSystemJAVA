@@ -1,5 +1,8 @@
 # AttendanceSystemJAVA
 
+![image](https://github.com/manan3044/AttendanceSystemJAVA/assets/158698174/219ba044-384e-48c7-adfc-82abb5b6a3fb)
+
+
 **Overview**
 
 This Java project is an Attendance System designed to track and manage student attendance efficiently. The system allows for recording, updating, and viewing attendance data, providing a user-friendly interface and robust functionality.
